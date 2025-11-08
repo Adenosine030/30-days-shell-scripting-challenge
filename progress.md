@@ -15,8 +15,8 @@
 | Day | Challenge | Status | Date Completed | Time Spent | Notes |
 |-----|-----------|--------|----------------|------------|-------|
 | 1 | Hello World & Variables | ✅ | 2025-11-06 | 15 min | Easy start, learned shebang |
-| 2 | User Input | ⏳ | - | - | - |
-| 3 | Command Line Arguments | ⏳ | - | - | - |
+| 2 | User Input | ✅ | 2025-11-07 | 15 min | learned input functions |
+| 3 | Command Line Arguments | ✅ | 2025-11-08 | 30 min | learned arguments, if % else statements |
 | 4 | If-Else Statements | ⏳ | - | - | - |
 | 5 | For Loops | ⏳ | - | - | - |
 | 6 | While Loops | ⏳ | - | - | - |
@@ -88,10 +88,10 @@
 ## Overall Progress
 
 - **Total Challenges:** 30
-- **Completed:** 1
+- **Completed:** 3
 - **In Progress:** 0
-- **Remaining:** 29
-- **Completion Rate:** 3.3%
+- **Remaining:** 27
+
 
 ---
 
@@ -114,7 +114,8 @@
 ## Challenges Faced
 
 1. **Day 1:** None - smooth start!
-2. **Day X:** [Your challenge]
+2. **Day 2:** None
+3. **Day 3:** Going well!
 
 ---
 
@@ -138,11 +139,11 @@
 
 | Week | Total Time | Average per Day |
 |------|------------|-----------------|
-| 1 | 15 min | 15 min |
+| 1 | 60 min | 20 min |
 | 2 | - | - |
 | 3 | - | - |
 | 4 | - | - |
-| **Total** | **15 min** | **15 min** |
+| **Total** | **60 min** | **20 min** |
 
 ---
 
@@ -163,4 +164,4 @@
 
 ---
 
-**Last Updated:** November 6, 2025
+**Last Updated:** November 8, 2025
