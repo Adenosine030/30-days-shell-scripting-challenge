@@ -42,8 +42,8 @@ This repository documents my 30-day journey to master Bash scripting for DevOps 
 Learn the basics of Bash scripting
 
 - ✅ **Day 1:** Hello World & Variables
-- ⏳ **Day 2:** User Input
-- ⏳ **Day 3:** Command Line Arguments
+- ✅**Day 2:** User Input
+- ✅ **Day 3:** Command Line Arguments
 - ⏳ **Day 4:** If-Else Statements
 - ⏳ **Day 5:** For Loops
 - ⏳ **Day 6:** While Loops
@@ -138,7 +138,7 @@ By the end of this challenge, I will be able to:
 
 **Overall Progress:** 1/30 (3.3%)
 
-- **Week 1:** 1/7 completed
+- **Week 1:** 3/7 completed
 - **Week 2:** 0/7 completed
 - **Week 3:** 0/7 completed
 - **Week 4:** 0/7 completed
@@ -195,7 +195,7 @@ chmod +x day01_hello.sh
 - **Editor:** Vim / Nano
 - **Testing:** ShellCheck
 - **Version Control:** Git
-- **Platform:** Amazon Linux 2023 (EC2)
+- **Platform:** Ubuntu Linux
 
 ---
 
@@ -242,14 +242,6 @@ While this is a personal learning challenge, suggestions and improvements are we
 
 ---
 
-## 📝 Daily Notes
-
-Each day's learning notes can be found in the `notes/` directory:
-- [Week 1 Notes](notes/week1_notes.md)
-- [Week 2 Notes](notes/week2_notes.md)
-- [Week 3 Notes](notes/week3_notes.md)
-- [Week 4 Notes](notes/week4_notes.md)
-
 ---
 
 ## 🏆 Milestones
@@ -277,9 +269,9 @@ Once completed, here are scripts that can be used in production:
 ## 📧 Connect With Me
 
 - **GitHub:** [@Adenosine030](https://github.com/Adenosine030)
-- **LinkedIn:** [Your LinkedIn]
-- **Twitter:** [Your Twitter]
-- **Blog:** [Your Blog]
+- **LinkedIn:** 
+- **Twitter:** @0x_Demoo
+
 
 ---
 
@@ -308,4 +300,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **🚀 Challenge in Progress - Updated Daily**
 
-*Last Updated: November 6, 2025*
+*Last Updated: November 8, 2025*
