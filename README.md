@@ -44,7 +44,7 @@ Learn the basics of Bash scripting
 - ✅ **Day 1:** Hello World & Variables
 - ✅**Day 2:** User Input
 - ✅ **Day 3:** Command Line Arguments
-- ⏳ **Day 4:** If-Else Statements
+- ✅ **Day 4:** If-Else Statements
 - ⏳ **Day 5:** For Loops
 - ⏳ **Day 6:** While Loops
 - ⏳ **Day 7:** Functions
