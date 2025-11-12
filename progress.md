@@ -17,12 +17,12 @@
 | 1 | Hello World & Variables | ✅ | 2025-11-06 | 15 min | Easy start, learned shebang |
 | 2 | User Input | ✅ | 2025-11-07 | 15 min | learned input functions |
 | 3 | Command Line Arguments | ✅ | 2025-11-08 | 30 min | learned arguments, if % else statements |
-| 4 | If-Else Statements | ⏳ | - | - | - |
-| 5 | For Loops | ⏳ | - | - | - |
-| 6 | While Loops | ⏳ | - | - | - |
-| 7 | Functions | ⏳ | - | - | - |
+| 4 | If-Else Statements | ✅ | 2025-11-09 | 30 min | - |
+| 5 | For Loops | ✅ | 2025-11-10 | - | 30 min |
+| 6 | While Loops | ✅ | 2025-11-11 | 25 min | - |
+| 7 | Functions | ✅ | 2025-11-12 | 30 min | created a function that greets and then present system information |
 
-**Week 1 Completion:** 1/7 (14%)
+**Week 1 Completion:** 7/7 (23%)
 
 ---
 
@@ -88,7 +88,7 @@
 ## Overall Progress
 
 - **Total Challenges:** 30
-- **Completed:** 3
+- **Completed:** 7
 - **In Progress:** 0
 - **Remaining:** 27
 
@@ -158,7 +158,7 @@
 - Should add more error handling
 
 ### Next Steps
-- Complete Week 1 by [date]
+- Complete Week 1 by 12-11-2025
 - Start contributing to open-source Bash projects
 - Create my own DevOps automation library
 
