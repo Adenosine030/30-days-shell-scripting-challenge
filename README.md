@@ -45,9 +45,9 @@ Learn the basics of Bash scripting
 - ✅**Day 2:** User Input
 - ✅ **Day 3:** Command Line Arguments
 - ✅ **Day 4:** If-Else Statements
-- ⏳ **Day 5:** For Loops
-- ⏳ **Day 6:** While Loops
-- ⏳ **Day 7:** Functions
+- ✅ **Day 5:** For Loops
+- ✅ **Day 6:** While Loops
+- ✅ **Day 7:** Functions
 
 ### Week 2: Practical Scripts (Days 8-14)
 Build real DevOps automation tools
@@ -138,7 +138,7 @@ By the end of this challenge, I will be able to:
 
 **Overall Progress:** 1/30 (3.3%)
 
-- **Week 1:** 3/7 completed
+- **Week 1:** 7/7 completed
 - **Week 2:** 0/7 completed
 - **Week 3:** 0/7 completed
 - **Week 4:** 0/7 completed
@@ -247,7 +247,7 @@ While this is a personal learning challenge, suggestions and improvements are we
 ## 🏆 Milestones
 
 - ✅ **Day 1:** Challenge started!
-- ⏳ **Day 7:** Week 1 completed
+- ✅ **Day 7:** Week 1 completed
 - ⏳ **Day 14:** Week 2 completed
 - ⏳ **Day 21:** Week 3 completed
 - ⏳ **Day 28:** Week 4 completed
