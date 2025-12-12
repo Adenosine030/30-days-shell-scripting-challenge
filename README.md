@@ -65,11 +65,11 @@ Production-ready automation scripts
 
 - ✅ **Day 15:** Service Checker
 - ✅ **Day 16:** Deployment Script
-- ⏳ **Day 17:** Log Rotation Script
-- ⏳ **Day 18:** Database Backup
-- ⏳ **Day 19:** SSH Connection Manager
-- ⏳ **Day 20:** Docker Helper
-- ⏳ **Day 21:** CI/CD Pipeline Simulator
+- ✅ **Day 17:** Log Rotation Script
+- ✅ **Day 18:** Database Backup
+- ✅ **Day 19:** SSH Connection Manager
+- ✅ **Day 20:** Docker Helper
+- ✅ **Day 21:** CI/CD Pipeline Simulator
 
 ### Week 4: Advanced Concepts (Days 22-28)
 Professional-grade scripting techniques
@@ -140,7 +140,7 @@ By the end of this challenge, I will be able to:
 
 - **Week 1:** 7/7 completed
 - **Week 2:** 7/7 completed
-- **Week 3:** 2/7 completed
+- **Week 3:** 7/7 completed
 - **Week 4:** 0/7 completed
 
 [View detailed progress →](progress.md)
@@ -249,7 +249,7 @@ While this is a personal learning challenge, suggestions and improvements are we
 - ✅ **Day 1:** Challenge started!
 - ✅ **Day 7:** Week 1 completed
 - ✅ **Day 14:** Week 2 completed
-- ⏳ **Day 21:** Week 3 completed
+- ✅ **Day 21:** Week 3 completed
 - ⏳ **Day 28:** Week 4 completed
 - ⏳ **Day 30:** Challenge completed! 🎉
 
@@ -300,4 +300,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **🚀 Challenge in Progress - Updated Daily**
 
-*Last Updated: November 8, 2025*
+*Last Updated: December 12, 2025*
